@@ -30,7 +30,7 @@ export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Ho
 export PATH="$SBT_HOME:$JAVA_HOME:$SCALA_HOME:$PATH"
 ```
 
-#Start the game
+# Start the game
 Be in the home location of this project(location of this file), then execute the following command
 ```
 sbt run
